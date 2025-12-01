@@ -1,0 +1,9 @@
+Flask==3.0.3
+google-generativeai==0.7.0
+python-dotenv==1.0.1
+markdown==3.6
+gunicorn==22.0.0Flask==3.0.3
+google-generativeai==0.7.0
+python-dotenv==1.0.1
+markdown==3.6
+gunicorn==22.0.0
